@@ -16,6 +16,6 @@ _forward kinematic_ merupakan proses perhitungan koordinat lokasi dari ujung rob
 
 _Invers Kinematics_ merupakan proses kebalikan dari FK, dimana yaitu proses perhitungan berapa sudut masing masing $\theta_1$, $\theta_2$, $\theta_3$, $\theta_n$ dalam menentukan titik target dalam koordinat X, Y, Z.
 
-###### pada Tubes kali ini akan di fokuskan dalam mempelajari kinematika gerak dari robot manipulator. Robot manipulator merupakan jenis robot yang memiliki lengan mekanik yang dirancang untuk menirukan fungsi dan pergerakan dari lengan manusia untuk memindahkan, memanipulasi dan mengolah posisi suatu objek dalam jangkauannya.
+pada Tubes kali ini akan di fokuskan dalam mempelajari kinematika gerak dari robot manipulator. Robot manipulator merupakan jenis robot yang memiliki lengan mekanik yang dirancang untuk menirukan fungsi dan pergerakan dari lengan manusia untuk memindahkan, memanipulasi dan mengolah posisi suatu objek dalam jangkauannya.
 
 pada projek kali ini, saya dan tim saya memutuskan untuk merancang manipulator robot dengan 4 Degree of Freedom(DOF).
